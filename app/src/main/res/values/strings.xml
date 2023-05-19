@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProjectVIX</string>
+    <string name="mandiri_news">Mandiri News</string>
+    <string name="berita_terkini">Berita Terkini</string>
+    <string name="semua_berita">Semua Berita</string>
+    <string name="sample_text">Sample text</string>
+</resources>

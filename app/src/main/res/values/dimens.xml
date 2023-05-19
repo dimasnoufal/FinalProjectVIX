@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin  -->
+    <dimen name="widthHeightLogo">75dp</dimen>
+    <dimen name="widthImageTop">200dp</dimen>
+    <dimen name="widthImageEvery">110dp</dimen>
+    <dimen name="widthSourceDateTop">150dp</dimen>
+    <dimen name="widthAuthorDateEvery">100dp</dimen>
+    <dimen name="cornerRadiusLogo">35dp</dimen>
+    <dimen name="cornerRadiusCardTop">15dp</dimen>
+    <dimen name="cornerRadiusCardEvery">15dp</dimen>
+    <dimen name="margin24">24dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="marginTopTittle">22dp</dimen>
+
+    <!--  SP  -->
+    <dimen name="textSizeTittle1">24sp</dimen>
+    <dimen name="textSizeTittle2">22sp</dimen>
+    <dimen name="textSizeTittleSmall">18sp</dimen>
+    <dimen name="textSizeTittleExtraSmall">14sp</dimen>
+</resources>
