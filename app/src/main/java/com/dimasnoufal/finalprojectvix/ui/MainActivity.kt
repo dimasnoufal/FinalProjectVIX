@@ -6,7 +6,6 @@ import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.dimasnoufal.finalprojectvix.R
 import com.dimasnoufal.finalprojectvix.adapter.EverythingNewsAdapter
 import com.dimasnoufal.finalprojectvix.adapter.TopHeadlineNewsAdapter
 import com.dimasnoufal.finalprojectvix.databinding.ActivityMainBinding

@@ -8,7 +8,7 @@ import com.dimasnoufal.finalprojectvix.R
 import com.dimasnoufal.finalprojectvix.databinding.ItemRowTopHeadlineNewsBinding
 import com.dimasnoufal.finalprojectvix.model.NewsTopResponse
 
-class TopHeadlineNewsAdapter() :
+class TopHeadlineNewsAdapter :
     RecyclerView.Adapter<TopHeadlineNewsAdapter.TopHeadlineNewsViewHolder>() {
 
     private var newsTop: List<NewsTopResponse.ArticlesItem?>? = listOf()

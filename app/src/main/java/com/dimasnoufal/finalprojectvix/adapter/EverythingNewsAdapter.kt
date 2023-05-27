@@ -6,11 +6,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.dimasnoufal.finalprojectvix.R
 import com.dimasnoufal.finalprojectvix.databinding.ItemRowEverythingNewsBinding
-import com.dimasnoufal.finalprojectvix.databinding.ItemRowTopHeadlineNewsBinding
 import com.dimasnoufal.finalprojectvix.model.NewsEverythingResponse
-import com.dimasnoufal.finalprojectvix.model.NewsTopResponse
 
-class EverythingNewsAdapter() :
+class EverythingNewsAdapter :
     RecyclerView.Adapter<EverythingNewsAdapter.EverythingNewsViewHolder>() {
 
     private var newsEvery: List<NewsEverythingResponse.ArticlesItem?>? = listOf()

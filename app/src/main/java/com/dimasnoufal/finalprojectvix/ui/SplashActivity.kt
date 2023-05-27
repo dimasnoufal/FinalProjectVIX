@@ -9,7 +9,6 @@ import android.os.Looper
 import android.view.WindowInsets
 import android.view.WindowInsetsController
 import android.view.WindowManager
-import com.dimasnoufal.finalprojectvix.R
 import com.dimasnoufal.finalprojectvix.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {

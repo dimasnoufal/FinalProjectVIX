@@ -1,5 +1,6 @@
 package com.dimasnoufal.finalprojectvix.network
 
+import com.dimasnoufal.finalprojectvix.utils.AppConstant.BASE_URL
 import com.google.gson.FieldNamingPolicy
 import com.google.gson.GsonBuilder
 import okhttp3.Interceptor
@@ -8,7 +9,6 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object Service {
-    private const val BASE_URL = "https://newsapi.org/v2/"
 
     private fun provideOkHttpClient(): OkHttpClient {
         return OkHttpClient.Builder().apply {
